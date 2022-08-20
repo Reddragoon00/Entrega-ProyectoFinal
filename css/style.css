@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #9659f0;
+    display: block;
+}
+
+.h1 {
+    text-align: center;
+    color: #ff6549;
+    text-shadow:
+        3px 3px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+
+.card-body .btn {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 40px;
+    width: 120px;
+    margin-left: 80px;
+}
+
+.card-img-top {
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.cart-container {
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 85%;
+    height: 80%;
+    background-color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 0px 25px 40px #401285;
+}
+
+.cart-header {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.items-carrito {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 5px;
+    align-items: center;
+    font-size: 25px;
+}
+
+.img-carrito {
+    height: 120px;
+    width: 150px;
+    border-radius: 6px;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-danger {
+    display: flex;
+    justify-content: end;
+}
+
+.cantidad-item {
+    margin-left: 180px;
+}
+
+.total-carrito {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.total {
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    height: 80%;
+    background-color: #ffffff;
+    padding: 5px;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 6px;
+    box-shadow: 0px 25px 40px #401285;
+}
+
+.containerBttn{
+    display: flex;
+    justify-content: center;
+}
+
+.containerBttn .submitBttn{
+    width: 7%;
+    margin: 5px;
+}
+
+.endMsg{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    padding: 5px;
+}

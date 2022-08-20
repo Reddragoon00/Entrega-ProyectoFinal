@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "name": "Rosefeld",
+        "price": 100,
+        "image": "./Assets/1.jfif",
+        "text": "Hermosas flores rosadas"
+    },
+    {
+        "id": 2,
+        "name": "Pinktalia",
+        "price": 150,
+        "image": "./Assets/2.jfif",
+        "text": "Llevalas junto con las Rosefeld!"
+    },
+    {
+        "id": 3,
+        "name": "Girasoles",
+        "price": 200,
+        "image": "./Assets/3.jpg",
+        "text": "Ideal para esta primavera"
+    },
+    {
+       "id": 4,
+        "name": "BlueSpan",
+        "price": 250,
+        "image": "./Assets/4.jpg",
+        "text": "Azules hermosos para tu jardín"
+    },
+    {
+        "id": 5,
+        "name": "Green Pearl",
+        "price": 500,
+        "image": "./Assets/5.jfif",
+        "text": "Para embellecer el interior"
+    },
+    {
+        "id": 6,
+        "name": "Suculentas",
+        "price": 80,
+        "image": "./Assets/6.jpg",
+        "text": "Poca agua y mucho amor!"
+    }
+]
